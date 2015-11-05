@@ -1,5 +1,6 @@
 ## go-nonblockingchan
 
+[![Build Status](https://travis-ci.org/hectane/go-nonblockingchan.svg?branch=master)](https://travis-ci.org/hectane/go-nonblockingchan)
 [![GoDoc](https://godoc.org/github.com/hectane/go-nonblockingchan?status.svg)](https://godoc.org/github.com/hectane/go-nonblockingchan)
 [![MIT License](http://img.shields.io/badge/license-MIT-9370d8.svg?style=flat)](http://opensource.org/licenses/MIT)
 
